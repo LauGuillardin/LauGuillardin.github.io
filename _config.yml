@@ -82,8 +82,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-  researchgate: Laura Guillardín
-  google scholar: Laura Guillardin
+
 
 # Select which share links to show in posts
 share-links-active:
@@ -93,8 +92,7 @@ share-links-active:
   github: true
   instagram: true
   spotify: true
-  researchgate: true
-  google scholar: true
+
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
