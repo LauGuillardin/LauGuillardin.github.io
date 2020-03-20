@@ -21,7 +21,7 @@ description: A virtual proof that I'm awesome
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Media profiles:
     - Researchgate profile: "https://www.researchgate.net/profile/Laura_Guillardin"
     - Linkedin profile: "https://www.linkedin.com/in/laura-guillard%C3%ADn-0b706914b/"
 
