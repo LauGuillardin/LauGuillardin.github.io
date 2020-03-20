@@ -37,7 +37,7 @@ title-img: "/img/reverse.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#ffffff"
+navbar-col: "#FFFFFF"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
