@@ -17,6 +17,6 @@ Things I most appreciate of my job:
 
 What else can I say?
 
-### Love my dogs
+### I love my dogs
 
 ![](/img/hya2.jpg)
