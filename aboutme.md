@@ -18,4 +18,4 @@ What else can I say?
 
 ### Love my dogs
 
-image: /img/hya.jpg
+![](/img/hya.jpg)
