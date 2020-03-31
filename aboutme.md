@@ -18,4 +18,4 @@ What else can I say?
 
 ### Love my dogs
 
-image: LauGuillardin/lauguillardin.github.io/img/hya.jpg
+image: /img/hya.jpg
