@@ -1,3 +1,5 @@
+![](/img/IMG_3yu8t6.jpg)
+
 ---
 layout: page
 title: About me
