@@ -18,4 +18,4 @@ What else can I say?
 
 ### Love my dogs
 
-![dogs]("LauGuillardin/lauguillardin.github.io/img/hya.jpg")
+image: LauGuillardin/lauguillardin.github.io/img/hya.jpg
