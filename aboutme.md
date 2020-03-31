@@ -19,4 +19,4 @@ What else can I say?
 
 ### Love my dogs
 
-![](/img/hya.jpg)
+![](/img/hya2.jpg)
