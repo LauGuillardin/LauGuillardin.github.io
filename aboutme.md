@@ -1,3 +1,4 @@
+<p style='text-align: justify;'> Your Text </p>
 ---
 layout: page
 title: About me
@@ -12,6 +13,7 @@ Things I most appreciate of my career:
 - Trees are amazing
 - Genomic level data analysis allows us to answer A LOT of questions
 - Bioinformatic challenges
+- Sometimes I enjoy wet lab work
 
 What else do you need?
 
