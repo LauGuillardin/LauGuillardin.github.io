@@ -4,7 +4,7 @@
 title: Laura Guillardín
 theme: jekyll-theme-midnight
 # Short description of your site
-description: DPhil student in Plant Sciences
+description: DPhil student in Forest Genomics
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -27,11 +27,11 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/reverse.jpg"
+#avatar: "/img/reverse.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-#title-img: "/img/reverse.jpg"
+title-img: "/img/reverse.jpg"
 
 # --- Background colour/image options --- #
 
