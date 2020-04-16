@@ -52,6 +52,6 @@ googlescholar:
   icon: "fa-google"
   
 orcid:
-  name: "Google Scholar"
+  name: "ORCiD"
   baseURL: "https://orcid.org/0000-0002-9070-0152"
   icon: "fa-orcid"
