@@ -67,11 +67,11 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   email: "laura.guillardin@plants.ox.ac.uk"
-  researchgate: Laura_Guillardin
-  orcid: Laura Guillardín
+  #researchgate: Laura_Guillardin
+  #orcid: Laura Guillardín
   googlescholar: Laura Guillardin Calvo
   github: LauGuillardin
-  linkedin: laura-guillardín-0b706914b
+  #linkedin: laura-guillardín-0b706914b
   twitter: LGuillardin
   instagram: arubuntu
  
