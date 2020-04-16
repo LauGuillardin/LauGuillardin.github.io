@@ -66,25 +66,17 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
   email: "laura.guillardin@plants.ox.ac.uk"
-  github: LauGuillardin
-  twitter: LGuillardin
-#  reddit: yourname
-  linkedin: laura-guillardín-0b706914b
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-  instagram: arubuntu
-#  youtube: user/deanat78
-# spotify: Laubuntu
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
   researchgate: Laura_Guillardin
-  googlescholar: Laura Guillardin Calvo
   orcid: Laura Guillardín
+  googlescholar: Laura Guillardin Calvo
+  github: LauGuillardin
+  linkedin: laura-guillardín-0b706914b
+  twitter: LGuillardin
+  instagram: arubuntu
+ 
+  
 
 # Select which share links to show in posts
 share-links-active:
