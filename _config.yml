@@ -77,14 +77,14 @@ social-network-links:
 #  snapchat: deanat78
   instagram: arubuntu
 #  youtube: user/deanat78
-  spotify: Laubuntu
+# spotify: Laubuntu
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
   researchgate: Laura_Guillardin
   googlescholar: Laura Guillardin Calvo
-
+  orcid: Laura Guillardín
 
 # Select which share links to show in posts
 share-links-active:
@@ -93,9 +93,10 @@ share-links-active:
   linkedin: true
   github: true
   instagram: true
-  spotify: true
+  spotify: false
   researchgate: true
   googlescholar: true
+  orcid: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
