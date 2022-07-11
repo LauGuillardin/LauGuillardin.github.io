@@ -58,5 +58,5 @@ orcid:
   
 twitch:
   name: "Twitch"
-  baseURL: https://www.twitch.tv/
+  baseURL: "https://www.twitch.tv/laubuntu"
    icon: "fa-twitch"
