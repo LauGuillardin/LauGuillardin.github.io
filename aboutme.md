@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Brief researcher biography
+subtitle: PhD student at the University of Oxford
 ---
 ![](/img/IMG_3yu8t6.jpg)
 <p style='text-align: justify;'> 
