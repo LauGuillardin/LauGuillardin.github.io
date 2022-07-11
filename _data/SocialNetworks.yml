@@ -55,8 +55,3 @@ orcid:
   name: "ORCiD"
   baseURL: "https://orcid.org/0000-0002-9070-0152"
   icon: "fa-orcid"
-  
-twitch:
-  name: "Twitch"
-  baseURL: "https://www.twitch.tv/laubuntu"
-   icon: "fa-twitch"
