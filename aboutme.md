@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About Me
 subtitle: PhD student at the University of Oxford
 ---
 ![](/img/IMG_3yu8t6.jpg)
