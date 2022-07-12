@@ -21,12 +21,17 @@ description: PhD student in Forest Genomics
 
 # List of links in the navigation bar
 navbar-links:
-  Laboratory Notebooks: "laboratorynotebooks"
+  Home: ""
   About Me: "aboutme"
+  Laboratory Notebooks: "laboratorynotebooks"
+  Publications: "publications"
+  Talks: "talks"
+  Resume: "resume"
   Media profiles:
     - Researchgate profile: "https://www.researchgate.net/profile/Laura_Guillardin"
     - Linkedin profile: "https://www.linkedin.com/in/laura-guillardin-0b706914b"
     - Twitch channel:  "https://www.twitch.tv/laubuntu"
+  
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
