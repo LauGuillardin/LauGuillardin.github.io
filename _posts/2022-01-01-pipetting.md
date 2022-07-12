@@ -5,11 +5,11 @@ category: [ Exercise ]
 ---
 _this exercise is a modified from the Putnam Lab pipette exercise, which they modifed from somewhere else_
 
-### Proficient pipetting is probably the most crucial part of this lab, for three reasons:
+### Proficient pipetting is very crucial in this lab, for three reasons:
 
-- Accurate pipetting is crucial to the success of molecular projects. Mistakes during pipetting may cause your experiments (e.g. PCR) to fail or to be irreproducible, and thus cause long delays and considerable expense
-- Pipettes are delicate pieces of equipment with high accuracy, which can easily be knocked off their calibration. Furthermore, they are expensive – each set of pipettes represent about $ 1,500.
-- Pipettes are the main source of contamination in PCRs, and thus can cause a lot of problems.
+- Accurate pipetting is crucial to the success of molecular projects. Mistakes during pipetting may cause your experiments (e.g. PCR, DNA isolation) to fail or to be irreproducible, and thus cause long delays and considerable expense
+- Pipettes are delicate pieces of equipment with high accuracy, which can easily be knocked off their calibration. Furthermore, they are expensive – each set of pipettes represent about £ 1,500.
+- Pipettes are the main source of contamination e.g. in PCRs, and thus can cause a lot of problems.
 
 ### Never
 *	Never rotate volume adjustor beyond the upper limit
@@ -21,6 +21,9 @@ _this exercise is a modified from the Putnam Lab pipette exercise, which they mo
     *	Use pipette holders provided
 *	Never let plunger snap back after withdrawing or ejecting fluid
     *	Damages piston
+*	Never use other person's pipette without letting them know
+    *	To track contamination sources
+
 ### Use
 * Use the correct pipette. Never adjust the volume beyond the maximum setting, but also do not use pipettes that are too large. Accuracy and precision drop rapidly towards the lower limit of settings.
 * Adjust volume by turning the volume adjustment knob or the plunger. Be sure to locate the decimal point correctly when reading the volume setting (see above). Always dial DOWN to the desired volume to avoid mechanical backlash affecting accuracy.
