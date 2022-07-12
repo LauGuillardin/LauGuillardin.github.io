@@ -21,7 +21,6 @@ description: PhD student in Forest Genomics
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
   About Me: "aboutme"
   Laboratory Notebooks: "laboratorynotebooks"
   Publications: "publications"
