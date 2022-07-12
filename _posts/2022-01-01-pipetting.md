@@ -3,7 +3,7 @@ layout: post
 title: Pipetting Exercises for Starting Labwork
 category: [ Exercise ]
 ---
-_this exercise is a modified from the Putnam Lab pipette exercise, which they modifed from somewhere else_
+_this exercise and explanation was modified from the [Putnam Lab pipette exercise](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Pipetting/), which they modifed from somewhere else 
 
 ### Proficient pipetting is very crucial in this lab, for three reasons:
 
@@ -48,8 +48,10 @@ Prevention of cross contamination
 
 -	Use a fresh tip each time
 -	Do not touch the tube with the pipette, only with the tip
--	If you suspect pipette-body contamination, wipe with ethanol on the outside.
+-	If you suspect pipette-body contamination, **wipe with ethanol** and **10 % bleach solution** on the outside.
 -	Draw up liquid slowly to prevent the formation of aerosols, bubbles also mess up your volume
+-	Use filter tips to reduce contamination risk if you think the step requires it, they are expensive so use them when really needed
+-	Use the correct tip size
 
 ### Pipetting exercise
 Be careful to use the correct pipette. Use distilled water. You don’t have to change tips for these exercises. As you do these exercises, look at the pipette tip when it is holding a volume so you can learn to check your pipetting visually.
@@ -106,7 +108,9 @@ Be careful to use the correct pipette. Use distilled water. You don’t have to 
 **After mastering these exercises with water, try the large and small volumes with glycerol. EXTREMELY viscous**
 
 How accurate were you?
-•	Is some liquid left in the tube? Measure it by drawing it up, and adjusting the pipette volume until all air below the liquid is expelled from the tip. Remember to hold the pipette vertically while doing so.
-•	Did you draw air up with the last removal of liquid? Measure the volume of step 4 by adjusting the volume downward. Remember to hold the pipette vertically while doing so.
+- Is some liquid left in the tube? Measure it by drawing it up, and adjusting the pipette volume until all air below the liquid is expelled from the tip. Remember to hold the pipette vertically while doing so.
+- Did you draw air up with the last removal of liquid? Measure the volume of step 4 by adjusting the volume downward. Remember to hold the pipette vertically while doing so.
 
-The pipettes have an accuracy and precision of about 1% - any more than that is human pipetting error! If you got it very wrong, try again.
+The pipettes have an error on accuracy and precision of about 1% - any more than that is human pipetting error! If you got it very wrong, try again.
+
+**Always calculate an extra volume for each reagent due to the pipetting error
