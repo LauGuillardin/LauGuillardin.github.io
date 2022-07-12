@@ -19,12 +19,17 @@ Facts I get from what I do:
 - Keep trying and eventually you'll get there
 - Errors are essential for success
 
+![](/img/IMG_20220102_140535.jpg)
+
+
 Things I do out of Academia:
 
 I love sports and enjoy trying new things everytime I can. 
   * I have been playing basketball since I'm 6 years old. Currently playing for the University of Oxford W2 team.
   * Always enjoy a nice walk, preferable if we end up climbing something!
   * Love trying new sports, recently I've been trying surfing and can't wait to scubadive again! Always keen for some kayaking too
+
+![](/img/DSC05624.JPG)
 
 ### I do love my dogs
 
