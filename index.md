@@ -17,5 +17,10 @@ I am a Forest genetics researcher. I hold a BSc in Forestry Engineering and a MS
 
 - First _in person_ flash talk in an international conference done! (B4EST Lisbon 2022)
 
+## **Currently doing**
+
+- Loads of labwork
+- Drafting technical paper
+- Re-analysing old data from my undergrad to be published
 
 
