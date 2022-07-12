@@ -7,4 +7,4 @@ Here is a list of my talks and presentations (including presenting work by other
 
 - **B4EST presentation**
   [Slides](/static/ppt/B4EST_slides.pdf){: .btn}  
-  *Lisbon* (May 04, 2022)
+  *Lisbon* (June 04, 2022)
