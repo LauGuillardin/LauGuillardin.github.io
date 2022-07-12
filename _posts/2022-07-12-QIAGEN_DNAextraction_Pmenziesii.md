@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QIAGEN DNeasy Plant Mini Kit DNA extraction modified protocol
+title: QIAGEN DNeasy Plant Mini Kit DNA extraction modified protocol - Douglas fir
 category: [ Protocol ]
 ---
 This is a modified protocol from the original QIAGEN DNeasy Plant Mini Kit **DNA extraction** provided by the manufacturer, [see link here](https://www.qiagen.com/no/resources/download.aspx?id=6b9bcd96-d7d4-48a1-9838-58dbfb0e57d0&lang=en)
