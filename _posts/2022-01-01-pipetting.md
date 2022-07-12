@@ -113,4 +113,4 @@ How accurate were you?
 
 The pipettes have an error on accuracy and precision of about 1% - any more than that is human pipetting error! If you got it very wrong, try again.
 
-**Always calculate an extra volume for each reagent due to the pipetting error
+**Always calculate an extra volume for each reagent due to the pipetting error**
