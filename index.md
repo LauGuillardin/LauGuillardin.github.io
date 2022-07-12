@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PhD Student
-subtitle: Plant Sciences Department
+title: Laura Guillardin
+subtitle: PhD student at Plant Sciences Department at the University of Oxford
 ---
 
 <p style='text-align: justify;'> 
