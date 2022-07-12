@@ -15,6 +15,8 @@ This is a modified protocol from the original QIAGEN DNeasy Plant Mini Kit **DNA
 - Get some ice from the ancillary room (next door on the right from our lab).
 - Every centrifuge step at room temperature (14-25C).
 
+#### DNA extraction
+
 1. **Samples selection** Take the samples from their envelopes (24) and add ≤20 mg of dried tissue per sample by using the precision balance in the small room, in a 2mL eppendorf with two tungsten beads (3mm).
 2. **Disruption of the samples**  Use the TissueLyser in the small room, for 1min at 30Hz (x2, reversing the position of the adaptors). Placed 12 samples per adaptor and be sure they are well balanced.
 3. Put the 24 tubes in a big rack, leaving one epmty well between tubes to avoid cross contamination while pipetting. Add **400 μl Buffer AP1** (which has been placed in the water bath at the beginning to redissolve precipitates, do not mix it though). Add **20 μl of Protease K**, which is stored in the 4C fridge in the main lab. Add **4 μl of RNase A**.
