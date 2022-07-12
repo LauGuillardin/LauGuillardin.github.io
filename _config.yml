@@ -21,7 +21,7 @@ description: PhD student in Forest Genomics
 
 # List of links in the navigation bar
 navbar-links:
-  Laboratory notebooks: "laboratorynotebooks"
+  Laboratory Notebooks: "laboratorynotebooks"
   About Me: "aboutme"
   Media profiles:
     - Researchgate profile: "https://www.researchgate.net/profile/Laura_Guillardin"
