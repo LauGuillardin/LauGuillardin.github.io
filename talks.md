@@ -22,8 +22,7 @@ Here is a list of my talks and posters:
 *Online* (June 20-23, 2022)
 
 - **2021 Forest Genetics Student & PostDoc Symposium**, Poster: **GENETIC effects of applying Continuous Cover Forestry in non-native conifer UK populations**  
-[Poster](/static/ppt/LGUILLARDIN_poster.pdf){: .btn}  
-[Slides](/static/ppt/LGUILLARDIN_slides.pdf){: .btn}  
+[Poster](/static/ppt/LGUILLARDIN_poster.pdf){: .btn} [Slides](/static/ppt/LGUILLARDIN_slides.pdf){: .btn}  
 *Online* (May 19-20, 2021)
 
 - **LIFEGENMON final conference**, Presentation: **GENETIC effects of applying Continuous Cover Forestry in non-native conifer UK populations**    
