@@ -3,10 +3,10 @@ layout: page
 title: Talks
 ---
 
-Here is a list of my talks and posters (including presenting work by other authors in reading groups):
+Here is a list of my talks and posters:
 
 - **IX International Symposium SRUK/CERU** Presentation: **From forest inventory to genotyping: How to increase forest diversity while timbering?**
-[Slides](/static/ppt/B4EST_slides.pdf){: .btn}  
+[Slides](/static/ppt/SRUK-conference-2022-OX-LG.pdf){: .btn}  
 *Oxford* (July 1-3, 2022)
 
 - **The B4EST International Conference**. Presentation: **Genetics behind the Continuous Cover Forestry (CCF), Do UK plantations hold enough genetic diversity to face environmental changes?**
@@ -29,3 +29,7 @@ Here is a list of my talks and posters (including presenting work by other autho
 - **LIFEGENMON final conference**, Presentation: **GENETIC effects of applying Continuous Cover Forestry in non-native conifer UK populations**  
 [Slides](/static/ppt/Lifegenmon_presentation_LAURA.pdf){: .btn}  
 *Online* (September 21-25, 2020)
+
+Here I include work by other authors I presented in reading groups:
+
+
