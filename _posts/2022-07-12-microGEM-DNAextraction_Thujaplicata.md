@@ -3,7 +3,7 @@ layout: post
 title: microGEM DNA extraction modified protocol - Western redcedar
 category: [ Protocol ]
 ---
-This is a modified protocol from the original MicroGEM PDQeX phytoGEM **DNA extraction** protocol provided by the manufacturer, [see link here](https://microgembio.com/wp-content/uploads/2019/03/REV0-C0085-PDQeX-Handbook.pdf)
+This is a modified protocol from the original MicroGEM PDQeX phytoGEM **DNA extraction** protocol provided by the manufacturer, [see link here](https://microgembio.com/wp-content/uploads/2019/03/REV0-C0085-PDQeX-Handbook.pdf), [and here](https://microgembio.com/wp-content/uploads/2019/03/QSG_009_190531_PDQeX-phytoGEM.pdf).
 
 
 ### The genomic isolation of _Thuja plicata_ - Western redcedar
@@ -29,7 +29,7 @@ This is a modified protocol from the original MicroGEM PDQeX phytoGEM **DNA extr
 #### DNA extraction
 
 1. **Samples selection** Take the samples from their envelopes (24) and add **≤10** mg of dried tissue per sample by using the precision balance in the small room, in a 2mL **eppendorf** with two tungsten beads (3mm).
-3. **Disruption of the samples** Pipette 100ul of 5XGREEN+ buffer per eppendorf. Use the TissueLyser for 1min at 30Hz (x2, reversing the position of the adaptors). Placed 12 samples per adaptor and be sure they are well balanced.
+3. **Disruption of the samples** Pipette 100ul of 5XGREEN+ buffer per sample. Use the TissueLyser for 1min at 30Hz (x2, reversing the position of the adaptors). Placed 12 samples per adaptor and be sure they are well balanced.
 4. Vortex thoroughly and let the tube sit in a rack for 10 minutes.
 5. **Prepare the Extraction pre-mix**:
 
