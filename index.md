@@ -21,7 +21,7 @@ I am a Forest genetics researcher. I hold a BSc in Forestry Engineering and a MS
 
 ## **Currently doing**
 
-- Loads of labwork
+- Load of lab work (being helped by two awesome students interns!) 
 - Drafting technical paper
 - Re-analysing old data from my undergrad to be published
 
