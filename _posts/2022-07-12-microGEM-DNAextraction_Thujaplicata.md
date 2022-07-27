@@ -32,13 +32,13 @@ This is a modified protocol from the original MicroGEM PDQeX phytoGEM **DNA extr
 3. **Disruption of the samples** Use the TissueLyser for 1min at 30Hz (x2, reversing the position of the adaptors). Placed 12 (or even number) samples per adaptor and be sure they are well balanced.
 5. **Prepare the Extraction pre-mix**:
 
-|Reagent |ul (x1 sample)  | ul (8x samples + 0.1)| ul (24x samples + 0.1)|
---- | --- | ---| ---|
-|10XGreen buffer|100|880|2640|
-|Histosolv|15|132|396|
-|Enhancer|10|88|264|
-|PrepGEM|2|17.6|52.8|
-|DNA-free water|10|88|264|
+    |Reagent |ul (x1 sample)  | ul (8x samples + 0.1)| ul (24x samples + 0.1)|
+    --- | --- | ---| ---|
+    |10XGreen buffer|100|880|2640|
+    |Histosolv|15|132|396|
+    |Enhancer|10|88|264|
+    |PrepGEM|2|17.6|52.8|
+    |DNA-free water|10|88|264|
 
 4. Mix the Extraction pre-mix by vortexing and spin it down.
 5. Pipette **137ul** of the Extraction Mix into new 0.5ml labelled tubes.
@@ -55,11 +55,11 @@ This is a modified protocol from the original MicroGEM PDQeX phytoGEM **DNA extr
 
 13. Select the **plant** programme and **check the following conditions** are set up:
 
-|Temperature (C) | Time (min)
---- | --- |
-|52|15|
-|75|10|
-|95|2|
+    |Temperature (C) | Time (min)
+    --- | --- |
+    |52|15|
+    |75|10|
+    |95|2|
 
 14. Extract and discard the catridges.
 15. Take out the 24-well plate or the 8-strip tubes, seal it with a 36 Adhesive PCR plate sealer or with 8-strip caps. 
