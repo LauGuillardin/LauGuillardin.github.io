@@ -3,7 +3,7 @@ layout: post
 title: microGEM DNA extraction modified protocol - Western redcedar
 category: [ Protocol ]
 ---
-This is a modified protocol from the original MicroGEM PDQeX phytoGEM **DNA extraction** protocol provided by the manufacturer, [see link here](https://microgembio.com/wp-content/uploads/2019/03/REV0-C0085-PDQeX-Handbook.pdf), [and here](https://microgembio.com/wp-content/uploads/2019/03/QSG_009_190531_PDQeX-phytoGEM.pdf).
+This is a modified protocol from the original [MicroGEM](https://microgembio.com/?gclid=Cj0KCQjwxIOXBhCrARIsAL1QFCbP3AnP9eKEwDQAPjz5456mXuKQInlTIpZlh-iLcuL4qDCJk5iSOw8aAiykEALw_wcB) PDQeX phytoGEM **DNA extraction** protocol provided by the manufacturer, [see link here](https://microgembio.com/wp-content/uploads/2019/03/REV0-C0085-PDQeX-Handbook.pdf), [and here](https://microgembio.com/wp-content/uploads/2019/03/QSG_009_190531_PDQeX-phytoGEM.pdf).
 
 
 ### The genomic isolation of _Thuja plicata_ - Western redcedar
