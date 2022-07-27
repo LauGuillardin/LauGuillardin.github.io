@@ -32,5 +32,5 @@ This is a modified protocol from the original QIAGEN DNeasy Plant Mini Kit **DNA
 not come into contact with the flow-through.
 12. Transfer the spin column to a new 1.5mL microcentrifuge tube that has been already properly labeled.
 13. Add **50 μl of Buffer AE** for elution. Incubate for 5 min at room temperature (15–25°C). Centrifuge for 1 min at ≥6000 x g. Repeat again.
-14. DNA is VERY FRAGILE, do not vortex it. To mix it flick it gently and spin down. Store it at 4C if it is going to be used soon (same week), store at -20C for long term storage. 
+14. **DNA is VERY FRAGILE**, do not vortex it. To mix it flick it gently and spin down. Store it at 4C if it is going to be used soon (same week), store at -20C for long term storage. 
 
