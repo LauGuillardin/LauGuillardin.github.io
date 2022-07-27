@@ -13,7 +13,7 @@ This is a modified protocol from the original [MicroGEM](https://microgembio.com
 - Turn on the PDQeX and start the UV DNA auto-cleaning (it takes 30min).
 - Add DNA-free water to **Histoslv** if starting a new bottle.
 - Check where the tissuelyser adaptors are. If they are in the -80C freezer, take them out and rinse them with water, then leave them to dry.
-- Get some ice from the ancillary room (next door on the right from our lab).
+- Get some ice to store the reagents in a cool place during the tissue disruption.
 - Every centrifuge step at room temperature (14-25C).
 - Completely thaw prepGEM and Histosolv, and mix by **gently inverting the tubes**. Remove 10XGREEN+ buffer and the Enhancer from the refrigerator and mix in the same way.
 - Prepare and label 24 2ml eppendorf tubes, 24 0.5ml tubes and x1 24-well plate or 8-strip tubes
