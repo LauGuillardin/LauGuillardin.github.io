@@ -45,13 +45,13 @@ This is a modified protocol from the original MicroGEM PDQeX phytoGEM **DNA extr
 6. **CAREFULLY** discard the beads from the 2ml eppendorf tubes into a paper towel without loosing the tissue powder.
 7. By using a little spoon-spatula, collect the powder from each sample and add it to the 0.5ml tubes which contain the Extraction Mix. *Clean the spoon-spatula with ethanol after every sample.*  
 8. Vortex the tubes thoroughly, **don't spin down**.
-9. Transfer the solution (**140ul**), LIQUID and TISSUE  into the PDQex catridges by using the **CUT TIPS** and put the cap on.
+9. Transfer the solution (**140ul**), **LIQUID** and **TISSUE**  into the PDQex catridges by using the **CUT TIPS** and put the cap on.
 10. Load 24-well plate or 8-strip tubes in the collection drawer and place it in the PDQeX.
 11. Insert the catridges on the top, flicking them **before inserting** in the heat block.
 12. Cover the cartridges with the hinged flap and close the sliding door.  
 
-**MAKE SURE THE PDQeX CARTRIDGES CORRESPOND WITH A COLLECTION TUBE OR WELL - OTHERWISE YOU WILL LOSE YOUR SAMPLE**  
-(this really happened to me)  
+    **MAKE SURE THE PDQeX CARTRIDGES CORRESPOND WITH A COLLECTION TUBE OR WELL - OTHERWISE YOU WILL LOSE YOUR SAMPLE**  
+    (this really happened to me)  
 
 13. Select the **plant** programme and **check the following conditions** are set up:
 
