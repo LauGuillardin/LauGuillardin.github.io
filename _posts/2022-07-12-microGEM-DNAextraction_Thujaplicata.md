@@ -40,6 +40,7 @@ This is a modified protocol from the original [MicroGEM](https://microgembio.com
     |PrepGEM|2|17.6|52.8|
     |DNA-free water|10|88|264|
 
+  
 4. Mix the Extraction pre-mix by vortexing and spin it down.
 5. Pipette **137ul** of the Extraction Mix into new 0.5ml labelled tubes.
 6. **CAREFULLY** discard the beads from the 2ml eppendorf tubes into a paper towel without loosing the tissue powder.
@@ -61,6 +62,7 @@ This is a modified protocol from the original [MicroGEM](https://microgembio.com
     |75|10|
     |95|2|
 
+  
 14. Extract and discard the catridges.
 15. Take out the 24-well plate or the 8-strip tubes, seal it with a 36 Adhesive PCR plate sealer or with 8-strip caps. 
 16. Check it's properly labelled.
