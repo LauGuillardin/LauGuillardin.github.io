@@ -6,7 +6,9 @@ category: [ Protocol ]
 This is a modified protocol from the original QIAGEN DNeasy Plant Mini Kit **DNA extraction** provided by the manufacturer, [see link here](https://www.qiagen.com/no/resources/download.aspx?id=6b9bcd96-d7d4-48a1-9838-58dbfb0e57d0&lang=en)
 
 
-### The genomic isolation of _Pseudotsuga menziessi_ - Douglas fir
+### The genomic isolation of _Pseudotsuga menziessi_ - Douglas fir  
+
+This protocol has been optimized to extract the DNA of Douglas-fir leaves that have been dried with silica gel. This protocol is also suitable for lyophilised dry tissue. Fresh samples can also be used, which may increase the DNA yield recovered. 
 
 #### Before starting
 
