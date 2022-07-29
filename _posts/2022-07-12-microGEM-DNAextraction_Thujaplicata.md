@@ -8,6 +8,8 @@ This is a modified protocol from the original [MicroGEM](https://microgembio.com
 
 ### The genomic isolation of _Thuja plicata_ - Western redcedar
 
+This protocol has been optimized to extract the DNA of Douglas-fir leaves that have been dried with silica gel. This protocol is also suitable for lyophilised dry tissue. Fresh samples can also be used, which may increase the DNA yield recovered.
+
 #### Before starting
 
 - Turn on the PDQeX and start the UV DNA auto-cleaning (it takes 30min).
