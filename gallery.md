@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Research Projects
+title: Gallery
 ---
-## Current Research
+# Some pictures
 
-# Genetic Diveristy in non-native conifer UK plantations and their offspring managed under the Continuous Cover Forestry approach
+# Fieldwork
 
-![](/img/IMG-20211205-WA0015.jpg)
+
+
+![](/img/IMG-20211205-WA0015.jpg){:height="36px" width="36px"}.
