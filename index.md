@@ -15,6 +15,7 @@ I am a Forest genetics researcher. I hold a BSc in Forestry Engineering and a MS
 
 ## **Updates**
 
+- Passed the Confirmation of DPhil Status **without reservations** (06/10/2022)
 - First **in person** flash talk in an international conference done! (B4EST Lisbon 2022)
 
 ---
@@ -22,7 +23,6 @@ I am a Forest genetics researcher. I hold a BSc in Forestry Engineering and a MS
 ## **Currently doing**
 
 - Loads of lab work (being helped by two awesome students interns! *Will Hoaen and George MacKay*) 
-- Preparing the Confirmation of DPhil (PhD) status.
 - Drafting technical paper
 - Re-analysing old data from my undergrad to be published
 
