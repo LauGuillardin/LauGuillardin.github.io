@@ -22,8 +22,8 @@ markdown: kramdown
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Laboratory Notebooks: "laboratorynotebooks"
   Research projects: "researchprojects"
+  Laboratory Notebooks: "laboratorynotebooks"
   Publications: "publications"
   Talks: "talks"
   Resume: "resume"
