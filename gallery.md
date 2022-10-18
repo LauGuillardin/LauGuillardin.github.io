@@ -8,4 +8,4 @@ title: Gallery
 
 
 
-![](/img/IMG-20211205-WA0015.jpg){:height="3600px" width="3600px"}
+![](/img/IMG-20211205-WA0015.jpg){:height="360px" width="360px"}
