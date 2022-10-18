@@ -3,7 +3,7 @@ layout: page
 title: About Me
 subtitle: PhD student at the University of Oxford
 ---
-![](/img/IMG_20220709_161642.jpg)
+![](/img/IMG-20221015-WA0031.jpg)
 
 I was born and raised in Madrid, Spain. I graduated from the Universidad Politecnica de Madrid (Spain) in a degree in Forestry Engineering in 2017, followed by an MSc in Agroforestry Biotechnology in 2018. Focusing both final BSc and MSc thesis on forestry genomic bioinformatics methods, I acquired skills in population genetics, genomic data analysis and data processing tools. 
 
