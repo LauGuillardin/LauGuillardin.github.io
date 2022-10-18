@@ -5,7 +5,7 @@ title: Laura Guillardín
 theme: jekyll-theme-cayman
 # Short description of your site
 description: PhD student in Forest Genomics
-
+markdown: kramdown
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
