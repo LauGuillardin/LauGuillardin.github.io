@@ -17,6 +17,8 @@ Here is a list of my talks and posters:
 [Slides](/static/ppt/Plant_Genomes_Online_LGuillardin.pdf){: .btn}  
 *Online* (April 27-28, 2022)
 
+{% include youtube.html id="Y5eHJPZ9MLI" %}
+
 - **TREESCAPES 2021**, Poster: **Genetics behind the Continuous Cover Forestry (CCF), Do UK plantations hold enough genetic diversity to face environmental changes?**  
 [Poster](/static/ppt/B4EST_slides.pdf){: .btn}  
 *Online* (June 20-23, 2022)
@@ -29,6 +31,13 @@ Here is a list of my talks and posters:
 [Slides](/static/ppt/Lifegenmon_presentation_LAURA.pdf){: .btn}  
 *Online* (September 21-25, 2020)
 
-Here I include work by other authors I presented in reading groups:
+{% include youtube.html id="fWye-lKEWhU&t=310s" %}
+
+Here I include other contributions:
+
+- **Inspiring Girls International**, Video: Girls International is an organization dedicated to enhancing girls goals around the world by connecting them with female role models. **Laura Guillardin: Estudiante de doctorado en Botánica/ PhD student in Plant Sciences**     
+*Online* (April 24, 2020)
+
+{% include youtube.html id="XtqSLGZfoq4&t=5s" %}
 
 
