@@ -36,11 +36,12 @@ title: Scientific talks and outreach
 ## Here I include other contributions:
 
 - **Oxford Sparks Live: Seeing the forest *and* the trees**, [Oxford Sparks](https://www.oxfordsparks.ox.ac.uk/) is a podcast that connects researchers and takes the listener on the journey of discovery to hear about the latest, cutting-edge science to spark your curiosity. Video: **Live Q&A with forest scientists**      
-*Online* (August 04, 2020)
-
+*Online* (August 04, 2020)  
+  
 {% include youtube.html id="dLsrhHbRzkI" %}
-
+  
 - **Inspiring Girls International**, [Girls International](https://inspiring-girls.com/) is an organization dedicated to raising girls goals around the world by connecting them with female role models. Video: **Laura Guillardin: Estudiante de doctorado en Botánica/ PhD student in Plant Sciences**     
-*Online* (April 24, 2020)
-
+*Online* (April 24, 2020)  
+  
 {% include youtube.html id="XtqSLGZfoq4" %}
+  
