@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Talks
+title: Talks and other contributions
 ---
 
-Here is a list of my talks and posters:
+## Here is a list of talks and posters presented at scientific conferences
 
 - **IX International Symposium SRUK/CERU** Presentation: **From forest inventory to genotyping: How to increase forest diversity while timbering?**  
 [Slides](/static/ppt/SRUK-conference-2022-OX-LG.pdf){: .btn}  
@@ -33,7 +33,7 @@ Here is a list of my talks and posters:
 
 {% include youtube.html id="fWye-lKEWhU&t=310s" %}
 
-Here I include other contributions:
+## Here I include other contributions:
 
 - **Inspiring Girls International**, Video: Girls International is an organization dedicated to enhancing girls goals around the world by connecting them with female role models. **Laura Guillardin: Estudiante de doctorado en Botánica/ PhD student in Plant Sciences**     
 *Online* (April 24, 2020)
