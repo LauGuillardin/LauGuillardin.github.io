@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Talks and other contributions
+title: Scientific talks and outreach
 ---
 
 ## Here is a list of talks and posters presented at scientific conferences
