@@ -21,7 +21,7 @@ title: Scientific talks and outreach
 
 - **TREESCAPES 2021**, Poster: **Genetics behind the Continuous Cover Forestry (CCF), Do UK plantations hold enough genetic diversity to face environmental changes?**  
 [Poster](/static/ppt/B4EST_slides.pdf){: .btn}  
-*Online* (June 20-23, 2022)
+*Online* (June 20-23, 2021)
 
 - **2021 Forest Genetics Student & PostDoc Symposium**, Poster: **GENETIC effects of applying Continuous Cover Forestry in non-native conifer UK populations**  
 [Poster](/static/ppt/LGUILLARDIN_poster.pdf){: .btn} [Slides](/static/ppt/LGUILLARDIN_slides.pdf){: .btn}  
@@ -35,9 +35,12 @@ title: Scientific talks and outreach
 
 ## Here I include other contributions:
 
+- **Oxford Sparks Live: Seeing the forest *and* the trees**, [Oxford Sparks](https://www.oxfordsparks.ox.ac.uk/) is a podcast that connects researchers and takes the listener on the journey of discovery to hear about the latest, cutting-edge science to spark your curiosity. Video: **Live Q&A with forest scientists**      
+*Online* (August 04, 2020)
+
+{% include youtube.html id="dLsrhHbRzkI" %}
+
 - **Inspiring Girls International**, [Girls International](https://inspiring-girls.com/) is an organization dedicated to raising girls goals around the world by connecting them with female role models. Video: **Laura Guillardin: Estudiante de doctorado en Botánica/ PhD student in Plant Sciences**     
 *Online* (April 24, 2020)
 
 {% include youtube.html id="XtqSLGZfoq4" %}
-
-
