@@ -31,13 +31,13 @@ title: Talks and other contributions
 [Slides](/static/ppt/Lifegenmon_presentation_LAURA.pdf){: .btn}  
 *Online* (September 21-25, 2020)
 
-{% include youtube.html id="fWye-lKEWhU&t" %}
+{% include youtube.html id="fWye-lKEWhU" %}
 
 ## Here I include other contributions:
 
 - **Inspiring Girls International**, Girls International is an organization dedicated to enhancing girls goals around the world by connecting them with female role models. Video: **Laura Guillardin: Estudiante de doctorado en Botánica/ PhD student in Plant Sciences**     
 *Online* (April 24, 2020)
 
-{% include youtube.html id="XtqSLGZfoq4&t" %}
+{% include youtube.html id="XtqSLGZfoq4" %}
 
 
