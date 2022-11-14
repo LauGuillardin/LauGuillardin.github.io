@@ -35,7 +35,7 @@ title: Talks and other contributions
 
 ## Here I include other contributions:
 
-- **Inspiring Girls International**, Girls International is an organization dedicated to enhancing girls goals around the world by connecting them with female role models. Video: **Laura Guillardin: Estudiante de doctorado en Botánica/ PhD student in Plant Sciences**     
+- **Inspiring Girls International**, [Girls International](https://inspiring-girls.com/) is an organization dedicated to raising girls goals around the world by connecting them with female role models. Video: **Laura Guillardin: Estudiante de doctorado en Botánica/ PhD student in Plant Sciences**     
 *Online* (April 24, 2020)
 
 {% include youtube.html id="XtqSLGZfoq4" %}
