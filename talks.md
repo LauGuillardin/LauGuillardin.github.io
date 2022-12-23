@@ -5,13 +5,17 @@ title: Scientific talks and outreach
 
 ## Here is a list of talks and posters presented at scientific conferences
 
+- **British Ecological Society Annual Meeting 2022** Poster: **Assessing the genetic diversity of Southern England Douglas fir planted stands and how it is transferred to the offspring**  
+[Poster](/static/ppt/BES2022LGUillardinPOSTER.pdf){: .btn}  
+*Edinburgh, Scotland* (December 18-21, 2022)
+
 - **IX International Symposium SRUK/CERU** Presentation: **From forest inventory to genotyping: How to increase forest diversity while timbering?**  
 [Slides](/static/ppt/SRUK-conference-2022-OX-LG.pdf){: .btn}  
-*Oxford* (July 1-3, 2022)
+*Oxford, England* (July 1-3, 2022)
 
 - **The B4EST International Conference**. Presentation: **Genetics behind the Continuous Cover Forestry (CCF), Do UK plantations hold enough genetic diversity to face environmental changes?**  
 [Slides](/static/ppt/B4EST_slides.pdf){: .btn}  
-*Lisbon* (June 20-23, 2022)
+*Lisbon, Portugal* (June 20-23, 2022)
 
 - **Plant Genomes Online 2022**, Presentation: **Genotyping strategies for large genome conifers - How genetically diverse are UK evergreen woodlands?**  
 [Slides](/static/ppt/Plant_Genomes_Online_LGuillardin.pdf){: .btn}  
