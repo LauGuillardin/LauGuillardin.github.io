@@ -12,7 +12,7 @@ Even-aged plantations of non-native conifer species and clear-cutting silvicultu
 
 
 
-# MSc Project Research
+# MSc Research Project 
 
 ## RADdesigner: a workflow to select the optimal sequencing methodology in genotyping experiments on woody plant species
 
@@ -20,7 +20,7 @@ Even-aged plantations of non-native conifer species and clear-cutting silvicultu
 
 Polymorphism detection in woody plant species is important in phylogenetics and an essential stage in plant breeding programs. Genotyping has benefitted from the development ofnext-generation sequencing (NGS) techniques. Methodologies based upon single and double-digested DNA sequencing (RADseq and ddRADseq) allow the detection ofpolymorphisms on thousands of loci in non-model organisms for which a reference genome is not available, such as many woody plant species. However, experiments using these methodologies are not safe from technical errors, and require careful designs in order to reduce library preparation and sequencing costs at the same time unbiased results are obtained. In order to avoid undesired effects oftechnical errors on genotyping, it is advisable to incorporate error quantification through pilot sequencing of technical replicates, along with filtering strategies and parameter tuning, so the technical conditions of the whole experiment can be properly defined a priori. However, these kinds ofapproaches to account for technical errors have been frequently disregarded in the literature. Here, we present RADDESIGNER, a workflow that combines pilot sequencing ofreplicate samples with a bioinformatic pipeline to select the most suitable methodology by quantifying genotyping errors, to optimize polymorphism detection parameters, and to perform post-filtering of the results produced by the commonly used RADseq bioinformatic pipeline IpyRAD. The workflow was validated using a pilot study that analyzed a subset of replicate samples ofQuercus suber, Q. ilex, and their hybrids.
 
-# BSc Project Research
+# BSc Research Project 
 
 ## Genetic differentiation of Quercus faginea and Q. pubescens populations across the Pre-Pyrenees
 
