@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use these protocols, please cite it as below."
 authors:
-- family-names: "Laura"
-  given-names: "Guillardin"
+- family-names: "Guillardín"
+  given-names: "Laura"
   orcid: "https://orcid.org/0000-0002-9070-0152"
 title: "lauguillardin.github.io-protocols"
 version: 1.0.0
