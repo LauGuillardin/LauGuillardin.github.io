@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this protocols, please cite it as below."
+authors:
+- family-names: "Laura"
+  given-names: "Guillardin"
+  orcid: "https://orcid.org/0000-0002-9070-0152"
+title: "lauguillardin.github.io-protocols"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-03-27
+url: "https://lauguillardin.github.io/laboratorynotebooks/"
