@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Laura Guillardin
+title: Laura Guillardín
 subtitle: PhD student at Plant Sciences Department at the University of Oxford
 ---
 # **Briefly**
