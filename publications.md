@@ -8,9 +8,9 @@ You can also browse my <a href="https://scholar.google.com/citations?user=VtLcSu
 
 **2023**
 - **Comparing DNA isolation methods for forest trees: quality, plastic footprint, and time-efficiency**  
-  **Laura Guillardin** & John MacKay  
-  *Submitted to Plant Methods - UNDER REVIEW*  
-   [Paper](https://www.researchsquare.com/article/rs-2928142/v1){: .btn} 
+  **Laura Guillardin** & John J. MacKay  
+  *Submitted to Plant Methods*  
+   [Paper](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-023-01086-y){: .btn} 
   
 
 **2020**
