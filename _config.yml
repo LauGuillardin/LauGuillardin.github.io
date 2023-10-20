@@ -112,7 +112,7 @@ share-links-active:
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "G-V287EZ9XQ5"
 
 #pagination
 gems: [jekyll-paginate]
