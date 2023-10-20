@@ -17,14 +17,14 @@ I am a Forest genetics researcher. I hold a BSc in Forestry Engineering and a MS
 
 ## **Updates**
 
+- First PhD paper published! [Comparing DNA isolation methods for forest trees: quality, plastic footprint, and time-efficiency](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-023-01086-y)
 - Participated in the Forest Genetics 2023 conference in Vernon, BC, Canada
 - Passed the Confirmation of DPhil Status **without reservations** (06/10/2022)
-- First **in person** flash talk in an international conference done! (B4EST Lisbon 2022)
+
 
 ---
 
 ## **Currently doing**
 
-- Writing up my Thesis 
-- Submitted technical paper to Plant Methods Journal
+- Writing up my Thesis (Getting there)
 - Re-analysing old data from my undergrad to be published
