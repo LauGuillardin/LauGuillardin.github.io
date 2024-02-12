@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: PhD student at the University of Oxford
+subtitle: Postdoctoral Fellow in Forestry at Teagasc Forest Development Department
 ---
 ![](/img/IMG-20221015-WA0031.jpg)
 
@@ -11,7 +11,9 @@ My bachelor thesis was on genetic and phenotype analysis of European white oaks 
 
 I spent the year after my MSc as a Junior Cloud Data Architect in an IT company in Madrid. I developed new skills to design and develop systems and frameworks that integrate Big Data, Machine Learning and Advanced Analytics that provide a solution to a wide range of business challenges. 
 
-Currently, I am a PhD student (3rd year) at the University of Oxford working on a project which aim is to assess the genetic effects of applying Continuous Cover Forestry in non-native conifer UK populations. 
+I have submitted my DPhil Thesis at the University of Oxford, the project aim was to assess the genetic effects of applying Continuous Cover Forestry in non-native conifer UK populations. Waiting to do the Viva!
+
+Currently, I am a [Postdoc Fellow in Forestry](https://www.teagasc.ie/contact/staff-directory/g/laura-guillardin/) at Teagasc Forest Development Department working on the [ADAPTForRes Research Project](https://www.teagasc.ie/crops/forestry/research/adaptforres-research-project/) looking at the adaptation and protection of Irish forests in order to increase their resilience 
 
 ![](/img/IMG_20220102_140535.jpg)
 
