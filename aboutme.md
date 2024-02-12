@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Postdoctoral Fellow in Forestry at Teagasc Forest Development Department
+subtitle: Postdoctoral Fellow in Forestry at Teagasc Forestry Development Department
 ---
 ![](/img/IMG-20221015-WA0031.jpg)
 
