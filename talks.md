@@ -5,13 +5,12 @@ title: Scientific talks and outreach
 
 ## Here is a list of talks and posters presented at scientific conferences
 
-- **Forest Genetics 2023: Discovery & Innovation in Changing Climates**
-  
+- **Forest Genetics 2023: Discovery & Innovation in Changing Climates**  
+  *Vernon, BC, Canada* (July 10-14, 2023)  
   Talk: **Continuous cover forestry and genetic diversity: a case study of England’s Western redcedar plantations**  
 [Slides](/static/ppt/ForestGeneticsConference2023.pdf){: .btn}  
   Poster: **Comparing DNA isolation methods for forest trees: quality, plastic footprint, and time-efficiency**  
 [Poster](/static/ppt/fgc2023poster.pdf){: .btn}  
-  *Vernon, BC, Canada* (July 10-14, 2023)
   Video: **Session 4a: Genetic Conservation, Laura Guillardin: from min 0:00 to 16:40**
   
 {% include youtube.html id="1LcMIinejAI" %}
