@@ -9,7 +9,7 @@ I was born and raised in Madrid, Spain. I graduated from the Universidad Politec
 
 My bachelor thesis was on genetic and phenotype analysis of European white oaks populations in the pre-pyrenean area by using population structure and landscape genomics approaches. During my master's thesis I focus on developing bioinformatics approaches for the genetic analysis of progenies of half brothers of holm oaks, cork oaks and hybrid individuals with the aim of use the plant material in breeding projects focused on the quality of cork. 
 
-I spent the year after my MSc as a Junior Cloud Data Architect in an [myCloudDoor IT company](https://myclouddoor.com/) in Madrid. I developed new skills to design and develop systems and frameworks that integrate Big Data, Machine Learning and Advanced Analytics that provide a solution to a wide range of business challenges. 
+I spent the year after my MSc as a Junior Cloud Data Architect at [myCloudDoor IT company](https://myclouddoor.com/) in Madrid. I developed new skills to design and develop systems and frameworks that integrate Big Data, Machine Learning and Advanced Analytics that provide a solution to a wide range of business challenges. 
 
 I have submitted my DPhil Thesis at the University of Oxford, the project aim was to assess the genetic effects of applying Continuous Cover Forestry in non-native conifer UK populations. Waiting to do the Viva!
 
