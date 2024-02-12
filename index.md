@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Laura Guillardín
-subtitle: Pstdoctoral Fellow in Forestry at Teagasc Forestry Development Department
+subtitle: Postdoctoral Fellow in Forestry at Teagasc Forestry Development Department
 ---
 # **Briefly**
 
