@@ -13,7 +13,7 @@ title: Scientific talks and outreach
 
   {% include youtube.html id="1LcMIinejAI" %}
 
-   Poster: **Comparing DNA isolation methods for forest trees: quality, plastic footprint, and time-efficiency**  
+  Poster: **Comparing DNA isolation methods for forest trees: quality, plastic footprint, and time-efficiency**  
   [Poster](/static/ppt/fgc2023poster.pdf){: .btn}  
   *Vernon, BC, Canada* (July 10-14, 2023)
 
