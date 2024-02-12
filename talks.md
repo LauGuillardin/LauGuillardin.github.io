@@ -9,14 +9,13 @@ title: Scientific talks and outreach
   
   Talk: **Continuous cover forestry and genetic diversity: a case study of England’s Western redcedar plantations**  
 [Slides](/static/ppt/ForestGeneticsConference2023.pdf){: .btn}  
+  Poster: **Comparing DNA isolation methods for forest trees: quality, plastic footprint, and time-efficiency**  
+[Poster](/static/ppt/fgc2023poster.pdf){: .btn}  
+  *Vernon, BC, Canada* (July 10-14, 2023)
   Video: **Session 4a: Genetic Conservation, Laura Guillardin: from min 0:00 to 16:40**
   
-  {% include youtube.html id="1LcMIinejAI" %}
+{% include youtube.html id="1LcMIinejAI" %}
   
-  Poster: **Comparing DNA isolation methods for forest trees: quality, plastic footprint, and time-efficiency**  
-  [Poster](/static/ppt/fgc2023poster.pdf){: .btn}  
-  *Vernon, BC, Canada* (July 10-14, 2023)
-
 - **British Ecological Society Annual Meeting 2022** Poster: **Assessing the genetic diversity of Southern England Douglas fir planted stands and how it is transferred to the offspring**  
 [Poster](/static/ppt/BES2022LGUillardinPOSTER.pdf){: .btn}  
 *Edinburgh, Scotland* (December 18-21, 2022)
