@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Laura Guillardín
-subtitle: PhD student at Plant Sciences Department at the University of Oxford
+subtitle: Pstdoctoral Fellow in Forestry at Teagasc Forestry Development Department
 ---
 # **Briefly**
 
