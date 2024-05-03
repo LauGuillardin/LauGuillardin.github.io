@@ -6,6 +6,12 @@ title: Publications
 You can also browse my <a href="https://scholar.google.com/citations?user=VtLcSu4AAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 <br />
 
+**2024**
+- **Low effective population size but high heterozygosity revealed by SNP analyses in adult and juvenile Thuja plicata in UK Woodlands**  
+  **Laura Guillardin**, Ella Glover, John J. MacKay  
+  *PREPRINT*  
+   [Paper](https://www.biorxiv.org/content/10.1101/2024.03.18.585477v1){: .btn} 
+
 **2023**
 - **Comparing DNA isolation methods for forest trees: quality, plastic footprint, and time-efficiency**  
   **Laura Guillardin** & John J. MacKay  
