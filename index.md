@@ -18,7 +18,7 @@ I am a Forest genetics researcher. I hold a BSc in Forestry Engineering and a MS
 ## **Updates**
 
 - Published a short piece in the Teagasc Daily newspaper talking about [The importance of genetic diversity in forests](https://www.teagasc.ie/news--events/daily/forestry/adapting-our-forests-for-climate-change---why-genetic-diversity-matters.php) 
-- SUBMITTED THESIS (08/01/2024)
+- Passed PhD viva (19/04/2024) and soon will be graduated!
 - First PhD paper published! [Comparing DNA isolation methods for forest trees: quality, plastic footprint, and time-efficiency](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-023-01086-y)
 - Featured in the Oxford University Biology Department News section [Using a lower plastic method of DNA research is more time efficient](https://www.biology.ox.ac.uk/article/using-a-lower-plastic-method-of-dna-research-is-more-time-efficient) 
 - Participated in the Forest Genetics 2023 conference in Vernon, BC, Canada
