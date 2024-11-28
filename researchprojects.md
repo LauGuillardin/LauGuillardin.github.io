@@ -2,7 +2,7 @@
 layout: page
 title: Research Projects
 ---
-# Current Research
+# PhD Project
 
 ## Genetic Diveristy in non-native conifer UK plantations and their offspring managed under the Continuous Cover Forestry approach
 
